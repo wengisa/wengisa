@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Wengisa 👋
 
-<!--
-**wengisa/wengisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curator of interactive digital monographs, spatial guides, and cultural archives.
 
-Here are some ideas to get you started:
+## 🌟 Featured Digital Artifacts
+* **[Abuja: Heirloom Edition](https://wengisa.github.io/abuja-monograph/)** — An interactive guide to architecture, cuisine, and culture in Abuja.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I Do
+* 📖 Digital Monograph & Content Curation
+* 🧠 Mindset, Self-Growth & Personal Development
+* 🎨 Visual Storytelling & Web Design
+
+## 📬 Connect With Me
+* **Facebook:** https://www.facebook.com/share/1DLsnSseNc/
+* **TikTok:** tiktok.com/@bhig.burnex
